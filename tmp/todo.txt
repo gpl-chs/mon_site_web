@@ -1,1 +1,0 @@
-ajouer le fichier gitignore
